@@ -6,3 +6,7 @@ statsmodels
 ydata-profiling
 scipy
 setuptools
+scikit-learn
+shap
+lime
+xgboost

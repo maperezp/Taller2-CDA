@@ -5,6 +5,9 @@
 - Daniel Esteban Aguilera Figueroa - 202010592 
 
 
+## **Objetivo del proyecto**
+Desarrollar un modelo predictivo de precios de venta de apartamentos en Bogotá para HabitAlpes, con el fin de optimizar el proceso de avalúos y maximizar la generación de valor económico a través de estimaciones automáticas precisas.
+
 ## **Instrucciones de ejecución**
 
 Clone el repositorio:
